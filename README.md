@@ -44,8 +44,8 @@ The backend logic is powered by **efficient data structures** such as **AVL Tree
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/github-clone-cpp.git
-cd github-clone-cpp
+https://github.com/TahaGPT/GitLite-Github_SQL.git
+cd GitLite-Github_SQL
 ```
 
 ### 3️⃣ Build & Run
